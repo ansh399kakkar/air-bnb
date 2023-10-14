@@ -1,0 +1,85 @@
+
+
+.card{
+    
+    margin-left: 20px;
+    margin-right:-50px;
+    box-shadow: rgba(66, 57, 58, 0.1) 0px 4px 16px, rgba(63, 58, 58, 0.1) 0px 8px 24px, rgba(66, 60, 61, 0.1) 0px 16px 56px;
+    position: relative;
+}
+.cards{
+    display:flex;
+    margin-left: 140px;}
+    
+.card1{
+    margin-left: 40px;
+}
+.card2{
+    margin-left: 40px;
+  
+    margin-top:9px;
+}
+.card-img-top1 {
+    width: 95%;
+    height: 22.3vw;
+    object-fit: cover;
+    border-radius: 30px;
+}
+.p{
+    display:flex;
+    margin-left: 39px;
+    
+    margin-bottom: -2px;
+  
+}
+.p > h3{
+    font-size: 18px;
+    
+}
+.p > p{
+    font-size:18px;
+    margin-left: 10px;
+    margin-top:18px;
+}
+.card-body >p{
+    margin-bottom: -10px;
+}
+.q{
+    display:flex;
+    margin-left: 43px;
+    
+    margin-bottom: -2px;
+  
+}
+.q > p{
+    font-size:18px;
+    margin-left: 10px;
+    margin-top:20px;
+}
+.l{
+    display:flex;
+    margin-left: 27px;
+    
+    margin-bottom: -2px;
+  
+}
+.l > p{
+    font-size:18px;
+    margin-left: 10px;
+    margin-top:20px;
+}
+.e{
+    margin-top:-1px;
+    
+}
+.badge{
+   position:absolute;
+   top:6px;
+   left:6px;
+   background-color: white;
+   padding:10px 30px;
+   border-radius: 2px;
+   font-weight: bold;
+   margin-left:19px;
+   margin-top:-1.6px;
+}
